@@ -1,0 +1,1 @@
+{"uuid":"44a4fc81-c9aa-4304-aa86-58db6730f81d","displayName":"App\\Jobs\\LogSomething","job":"Illuminate\\Queue\\CallQueuedHandler@call","maxTries":null,"maxExceptions":null,"failOnTimeout":false,"backoff":null,"timeout":null,"retryUntil":null,"data":{"commandName":"App\\Jobs\\LogSomething","command":"O:21:\"App\\Jobs\\LogSomething\":0:{}"}}
